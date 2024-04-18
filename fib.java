@@ -30,5 +30,6 @@ public class fib{
         int dp[] = new int[n+1];  //0,0,0,0
         System.out.println(fib(n,dp));
         System.out.println(fibTabulation(n));
+        System.out.println();
     }
 }
